@@ -1,6 +1,10 @@
-title: Minimal theme
+title:<p align="center"> Inderpreet Arora </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:  <p align="center">
+  <a href="https://github.com/inderpreetarora">GitHub</a>
+  <br>   
+  I work on Embedded systems, Digital control and Machine learning projects for automotive and manufacturing units. 
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
